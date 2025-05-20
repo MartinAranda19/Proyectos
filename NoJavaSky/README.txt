@@ -2,16 +2,14 @@ Nombre: Martín Ignacio Aranda Hernández.
 
 INSTRUCCIONES: Para compilar y ejecutar el código se utilizó el makefile creado, por favor para compilar escriba, dentro de la carpeta src, en la terminal WSL correspondiente la palabra make y para ejecutar el código escriba en la terminal correspondiente la palabra make run.
 
--Para realizar mi tarea se utilizó "Java 21" por lo que para su correcto funcionamiento utilice una version que permita compilar y ejecutar mi código.
+-Para realizar mi proyecto se utilizó "Java 21" por lo que para su correcto funcionamiento utilice una version que permita compilar y ejecutar mi código.
 
 
 ---------
-CONSIDERACIONES DE TAREA
+CONSIDERACIONES DE MI PROYECTO
 ---------
 
 -Por favor respetar los inputs que se solicitan en mi código a la hora de ejecutar mi código.
-
--Para la tarea se consideraron todos los archivos solicitados en la guía e la tarea. Nada más.
 
 -Como no se menciona en la guía en que momento se intercambian las flores de sodio y los cristales de hidrógeno por aumentos de la energía del ExoTraje y más combustible respectivamente, implementé en mi juego que tales intercambios se hacen en los asentamientos.
 
