@@ -1,14 +1,12 @@
 Nombre: Martín Ignacio Aranda Hernández.
-ROL: 202373021-1
 
-INSTRUCCIONES: Para compilar y ejecutar el código se utilizó el makefile creado, por favor para compilar escriba en la terminal correspondiente la palabra make y para ejecutar el código escriba en la terminal correspondiente la palabra make run.
-
+INSTRUCCIONES: Para compilar y ejecutar el código se utilizó el makefile creado, por favor para compilar escriba en la terminal WSL correspondiente la palabra make y para ejecutar el código escriba en la terminal correspondiente la palabra make run.
 
 ----------
-CONSIDERACIONES DE MI TAREA
+CONSIDERACIONES DE MI PROYECTO
 ----------
 
--Para la tarea se utilizaron 4 archivos .c CityDefender.c Tablero.c Barcos.c Cartas.c y además 3 archivos .h Tablero.h Barcos.h Cartas.h, además del archivo makefile para compilar y ejecutar.
+-Para el proyecto se utilizaron 4 archivos .c CityDefender.c Tablero.c Barcos.c Cartas.c y además 3 archivos .h Tablero.h Barcos.h Cartas.h, además del archivo makefile para compilar y ejecutar.
 
 -Para ingresar las coordenadas X e Y en el tablero se consideró lo siguiente:
 
