@@ -1,6 +1,6 @@
 Nombre: Martín Ignacio Aranda Hernández.
 
-INSTRUCCIONES: Para compilar y ejecutar el código se utilizó el makefile creado, por favor para compilar escriba en la terminal WSL correspondiente la palabra make y para ejecutar el código escriba en la terminal correspondiente la palabra make run.
+INSTRUCCIONES: Para compilar y ejecutar el código se utilizó el makefile creado, por favor para compilar escriba, dentro de la carpeta scr en la terminal WSL correspondiente la palabra make y para ejecutar el código escriba en la terminal correspondiente la palabra make run.
 
 -Para realizar mi tarea se utilizó "Java 21" por lo que para su correcto funcionamiento utilice una version que permita compilar y ejecutar mi código.
 
